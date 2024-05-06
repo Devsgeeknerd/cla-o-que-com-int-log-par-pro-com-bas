@@ -7,7 +7,7 @@ O computador é um dispositivo capaz de realizar cálculos e tomar decisões ló
 
 Por exemplo:
 
-* Hoje, muitos computadores pessoais podem realizar centenas de milhões, até bilhões, de somas por segundo.
+* hoje, muitos computadores pessoais podem realizar centenas de milhões, até bilhões, de somas por segundo.
 * Uma pessoa operando uma calculadora de mesa pode levar décadas para completar o mesmo número de cálculos que um computador pessoal poderoso pode realizar em segundos.
 
 Os computadores processam dados sob o controle de conjuntos de instruções, chamados programas de computador, *softwares* ou aplicações.
@@ -20,11 +20,13 @@ Os programas de computador são conhecidos como *software*.
 
 O computador, na realidade, é uma réplica bastante simplificada da mente humana, com apenas uma diferença essencial: a autoprogramação.
 
-**“Alguém”** diz para o cérebro humano o que ele deve fazer ao se deparar com situações específicas, como **“escovar os dentes ao acordar”** ou **“almoçar às 12h”**.
+“Alguém” diz para o cérebro humano o que ele deve fazer ao se deparar com situações específicas, como **W“escovar os dentes ao acordar”** ou **“almoçar às 12h”**.
 
 Tudo o que fazemos é regido por **“programas”** que, um dia, nós mesmos desenvolvemos.
 
-Se somos capazes de desenvolver programas para um aparelho tão complexo e genial como o nosso cérebro, por que não os desenvolvemos para um simples computador? Esse é o desafio: desenvolver técnicas necessárias para codificar programas em um computador.
+Se somos capazes de desenvolver programas para um aparelho tão complexo e genial como o nosso cérebro, por que não os desenvolvemos para um simples computador?
+
+Esse é o desafio: desenvolver técnicas necessárias para codificar programas em um computador.
 
 <!-- Informações -->
 ## &#8505; Informações
